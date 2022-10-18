@@ -1,4 +1,2 @@
-<h1>Practice JS! Console Output on HTML</h1>
-<a href="#"><img width="620" height="auto" src="practice-console-image.png"></a><br>
-Want to practice your console output?<br>
-All of your logged outputs will be placed in a makeshift console on your HTML page!
+<h1 align="center">Practice JS! Console Output on HTML</h1>
+<a href="#"><img align="center" width="620" height="auto" src="practice-console-image.png"></a><br>
