@@ -1,15 +1,21 @@
 html {
+    user-select: none;
+    -moz-user-select: none;
+    margin: auto;
+    max-width: 1350px;
     background: url(https://i.ibb.co/pZqXr1f/backdrop-2.jpg);
     background-size: cover;
     background-position: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+#title-content {
+    margin-bottom: 0px;
+}
+
 #main-container {
     display: flex;
-    margin: auto;
     text-align: center;
-    max-width: 800px;
     height: auto;
     background-color: #2e2e2e;
     border-radius: 5px;
@@ -26,7 +32,6 @@ html {
 #log-container {
     margin: auto;
     text-align: center;
-    max-width: 800px;
     height: auto;
     background-color: silver;
     border-radius: 5px;
@@ -42,11 +47,12 @@ html {
     border-radius: 5px;
     border-bottom-left-radius: 0px;
     border-top-left-radius: 0px;
-    padding: 10px;
+    padding: 20px;
     display: flex;
     align-items: center;
     font-weight: normal;
     text-align: left;
+    min-width: 1125px;
 }
 #log-title {
     padding-left: 10px;
