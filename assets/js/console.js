@@ -17,4 +17,4 @@
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-console.log('All of your console.log content is shown here! Hooray!')
+console.log('Look at this! Its awesome! All of your console.log content is shown here! Hooray!')

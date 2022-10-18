@@ -42,10 +42,11 @@ html {
     border-radius: 5px;
     border-bottom-left-radius: 0px;
     border-top-left-radius: 0px;
-    padding: 20px;
+    padding: 10px;
     display: flex;
     align-items: center;
     font-weight: normal;
+    text-align: left;
 }
 #log-title {
     padding-left: 10px;
