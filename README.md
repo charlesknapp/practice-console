@@ -6,6 +6,3 @@
 <p align="center">
 <img width="620" height="auto" src="https://i.gyazo.com/5a5e69607c929c9214ce53d8dafdd23d.png"></a>
 </p>
-<p align="center">
-<img width="620" height="auto" src="practice-console-image.png"></a>
-</p>
