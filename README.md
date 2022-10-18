@@ -4,5 +4,5 @@
   Feel free to browse the code and see how it's done!
 </p>
 <p align="center">
-<img height="auto" src="https://i.gyazo.com/5a5e69607c929c9214ce53d8dafdd23d.png"></a>
+<img height="auto" src="https://i.gyazo.com/37ebe9c70aa85efdb3a47373aa35408d.png"></a>
 </p>
